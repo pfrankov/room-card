@@ -8,9 +8,6 @@ export const style = css`
     ha-card .card-header {
         padding-bottom: 0px;
     }
-    .icon-small {
-        display: inline-block;
-    }
     .entity {
         text-align: center;
         cursor: pointer;
